@@ -1,0 +1,4 @@
+Pattern 7: Recursion, trees, and graphs
+What it teaches: Breaking a problem into smaller subproblems and exploring relationships.
+Learn: recursive calls, base cases, DFS, BFS, visited sets.
+Practice: tree traversal, maximum tree depth, number of islands, connected components.

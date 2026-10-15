@@ -1,0 +1,4 @@
+Pattern 5: Sorting and binary search
+What it teaches: Using order to reduce unnecessary comparisons and narrow down a search space.
+Learn: numeric sorting with a comparator, binary search, lower/upper bounds, sorting followed by two pointers.
+Practice: binary search, first and last occurrence, search insertion position, merging sorted arrays.

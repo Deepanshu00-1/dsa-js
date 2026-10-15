@@ -1,0 +1,4 @@
+Pattern 2: Two pointers
+What it teaches: Using two positions to avoid repeatedly scanning the same data.
+Learn: left, right, moving pointers based on a condition.
+Practice: reverse an array, palindrome checking, remove duplicates from a sorted array, two-sum in a sorted array, pair problems.

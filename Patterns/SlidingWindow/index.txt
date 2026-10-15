@@ -1,0 +1,4 @@
+Pattern 3: Sliding window
+What it teaches: Reusing work when examining contiguous sections of an array or string.
+Learn: expand the window, update its state, shrink it when necessary.
+Practice: maximum sum of k consecutive elements, longest substring without repeating characters, minimum-size subarray problems.

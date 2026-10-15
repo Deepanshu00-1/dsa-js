@@ -1,8 +1,7 @@
 const students = ['erik', 'eren', 'daniel', 'john', 'michael']
 
 function findStudent(allStudents, studentName){
-    allStudents = students
-    for(let i=0; i<=allStudents.length; i++){
+    for(let i=0; i<allStudents.length; i++){
         if(allStudents[i] === studentName){
             console.log('Found it: ', studentName)
         }
@@ -10,4 +9,4 @@ function findStudent(allStudents, studentName){
     }
 }
 
-findStudent(students ,"erik")
+findStudent(students ,"michael")

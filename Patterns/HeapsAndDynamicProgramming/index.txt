@@ -1,0 +1,4 @@
+Pattern 8: Heaps and dynamic programming
+What it teaches: Efficiently maintaining priorities and solving problems with overlapping subproblems.
+Learn: min/max heaps, top-k problems, memoization, tabulation, state transitions.
+Practice: kth-largest element, top-k frequent elements, climbing stairs, house robber.

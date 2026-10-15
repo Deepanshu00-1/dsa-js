@@ -1,0 +1,4 @@
+Pattern 4: Prefix sums
+What it teaches: Precomputing cumulative information to answer range-sum and related questions efficiently.
+Learn: running totals, cumulative arrays, prefix sums combined with a Map.
+Practice: range-sum queries, subarray sum equals k, count of subarrays with a target sum.

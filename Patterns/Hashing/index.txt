@@ -1,0 +1,8 @@
+Pattern 1: Hashing — Set and Map
+Start here
+What it teaches: Remembering what you've seen, counting occurrences, detecting duplicates, and finding relationships between values.
+Learn:
+- Set: .add(), .has(), .delete(), .size
+- Map: .set(), .get(), .has(), .keys(), .values()
+- Frequency counters and lookup tables
+Practice: duplicate detection, counting characters, first non-repeating character, Two Sum, array intersection.
